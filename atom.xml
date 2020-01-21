@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://leafriver.top/"/>
-  <updated>2020-01-21T07:51:49.542Z</updated>
+  <updated>2020-01-21T08:57:38.865Z</updated>
   <id>https://leafriver.top/</id>
   
   <author>
@@ -21,17 +21,11 @@
     <link href="https://leafriver.top/2020/01/21/%E6%95%99%E7%A8%8B%E4%BA%8C-%E9%83%A8%E7%BD%B2%E5%88%B0github/"/>
     <id>https://leafriver.top/2020/01/21/%E6%95%99%E7%A8%8B%E4%BA%8C-%E9%83%A8%E7%BD%B2%E5%88%B0github/</id>
     <published>2020-01-21T06:17:03.000Z</published>
-    <updated>2020-01-21T07:51:49.542Z</updated>
+    <updated>2020-01-21T08:57:38.865Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;
-        
-      
+      本文介绍了如何将 Hexo 应用部署到 Github 上
     
     </summary>
     
@@ -48,17 +42,11 @@
     <link href="https://leafriver.top/2020/01/21/Hexo-%E6%95%99%E7%A8%8B/"/>
     <id>https://leafriver.top/2020/01/21/Hexo-%E6%95%99%E7%A8%8B/</id>
     <published>2020-01-21T01:40:47.000Z</published>
-    <updated>2020-01-21T06:14:55.680Z</updated>
+    <updated>2020-01-21T08:56:32.327Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;
-        
-      
+      本文介绍了如何利用 Hexo 创建一个本地博客应用
     
     </summary>
     

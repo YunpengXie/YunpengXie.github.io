@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>教程三---修改主题样式（Ayer）</title>
+    <title>Hexo 教程三---修改主题样式（Ayer）</title>
     <url>/2020/01/22/%E6%95%99%E7%A8%8B%E4%B8%89-%E4%BF%AE%E6%94%B9%E4%B8%BB%E9%A2%98%E6%A0%B7%E5%BC%8F%EF%BC%88Ayer%EF%BC%89/</url>
     <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>Hexo 为什么流行，不仅因为其安装部署简单，并且它提供了大量主题样式，开发者可以选择自己喜欢的样式，并且更改样式非常简单。本文将以 Ayer 为例（本文较为喜欢这种风格），详细介绍步骤以及 Ayer 的一些特性。</p>
 <a id="more"></a>

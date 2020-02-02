@@ -1,28 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>武汉和科比</title>
-    <url>/2020/01/30/%E6%AD%A6%E6%B1%89%E5%92%8C%E7%A7%91%E6%AF%94/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>:cn:<br>2020年的开头，一切都显得不是那么好。武汉肺炎一步步的发展一直都让人们牵挂，而科比直升机坠亡在本来就不那么晴朗的心情里撒上了更多的灰色。我本来是一个沉默的人，但是今天在网上看到了太多灰暗的东西，让我感觉必须说点什么，并不是想让别人看到这些，只是想在某个空间对某些“狗”骂一句SB。</p>
-<a id="more"></a>
-
-<h2 id="我自己"><a href="#我自己" class="headerlink" title="我自己"></a>我自己</h2><p>在武汉疫情发展的前几天，我其实是有一点忐忑不安的。我是1.18号回家的，1.17号送子川去了大兴机场，然后回家第一天就感冒了，咳嗽的很厉害，没过几天，武汉肺炎的报道就越来越多，情势也越来越严峻。然后联想到我师弟放假前一周去过武汉，北京第一例感染者就是在大兴机场，加上我自己的咳嗽（虽然是我自己作的），我一度怀疑我也感染了。所以那几天，我是有点儿提心吊胆的，最后买了一个体温计，发现体温正常，心里才安定下来。</p>
-<h2 id="关于武汉关闭离汉通道"><a href="#关于武汉关闭离汉通道" class="headerlink" title="关于武汉关闭离汉通道"></a>关于武汉关闭离汉通道</h2><p>在武汉宣布关闭离汉通道的时候，我的第一反应是很震惊，因为武汉是一个大城市，人口众多，从来没有听说过这么大的城市进行“封闭”；第二反应是武汉市民对这个措施是什么反应，也大概猜到全国人民在此期间会如何对待武汉籍的人（人之常情吧，武汉人民请谅解）。对于“封闭”这个决定，站在不同的角度会有不同的解读，但是我认为，在面对一个巨大的考验时，需要一个领头人，带着我们朝着一个方向努力，共同面对困难，而这个时候，我们能够依靠的就是政府，而不是揪着之前的过失不放，扯些没用的屁话。作为一个不在武汉的武大人，唯一想说的就是：武汉人民你们受委屈了。</p>
-<h2 id=""><a href="#" class="headerlink" title=""></a></h2>]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-      <tags>
-        <tag>瞎JB写</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hexo 教程三---修改主题样式（Ayer）</title>
     <url>/2020/01/22/%E6%95%99%E7%A8%8B%E4%B8%89-%E4%BF%AE%E6%94%B9%E4%B8%BB%E9%A2%98%E6%A0%B7%E5%BC%8F%EF%BC%88Ayer%EF%BC%89/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>Hexo 为什么流行，不仅因为其安装部署简单，并且它提供了大量主题样式，开发者可以选择自己喜欢的样式，并且更改样式非常简单。本文将以 Ayer 为例（本文较为喜欢这种风格），详细介绍步骤以及 Ayer 的一些特性。</p>
+    <content><![CDATA[<h2 id="前言"><a class="header-anchor" href="#前言">¶</a>前言</h2>
+<p>Hexo 为什么流行，不仅因为其安装部署简单，并且它提供了大量主题样式，开发者可以选择自己喜欢的样式，并且更改样式非常简单。本文将以 Ayer 为例（本文较为喜欢这种风格），详细介绍步骤以及 Ayer 的一些特性。</p>
 <a id="more"></a>
-
-<h2 id="Ayer-的特性"><a href="#Ayer-的特性" class="headerlink" title="Ayer 的特性"></a>Ayer 的特性</h2><p>Ayer 是一个干净优雅的 Hexo 的主题，自带响应式，记载速度快，具有很多特性。（本博客就是应用此主题）</p>
+<h2 id="Ayer-的特性"><a class="header-anchor" href="#Ayer-的特性">¶</a>Ayer 的特性</h2>
+<p>Ayer 是一个干净优雅的 Hexo 的主题，自带响应式，记载速度快，具有很多特性。（本博客就是应用此主题）<img class="emoji" draggable="false" alt="😄" src="https://twemoji.maxcdn.com/v/12.1.5/72x72/1f604.png"/></p>
 <ol>
 <li>干净优雅，内容美观易读</li>
 <li>响应式设计，桌面版、平版、手机等设备均能有较好的展现</li>
@@ -32,7 +17,8 @@
 <li>集成了 Valine 和 Gittalk 评论模块</li>
 </ol>
 <p>参考<a href="https://github.com/Shen-Yu/hexo-theme-ayer" target="_blank" rel="noopener">沈宇的博客</a></p>
-<h2 id="安装步骤"><a href="#安装步骤" class="headerlink" title="安装步骤"></a>安装步骤</h2><p>首先打开博客目录，输入以下命令 git clone <a href="https://github.com/Shen-Yu/hexo-theme-ayer.git" target="_blank" rel="noopener">https://github.com/Shen-Yu/hexo-theme-ayer.git</a> themes/ayer</p>
+<h2 id="安装步骤"><a class="header-anchor" href="#安装步骤">¶</a>安装步骤</h2>
+<p>首先打开博客目录，输入以下命令 git clone <a href="https://github.com/Shen-Yu/hexo-theme-ayer.git" target="_blank" rel="noopener">https://github.com/Shen-Yu/hexo-theme-ayer.git</a> themes/ayer</p>
 <blockquote>
 <p>git clone <a href="https://github.com/Shen-Yu/hexo-theme-ayer.git" target="_blank" rel="noopener">https://github.com/Shen-Yu/hexo-theme-ayer.git</a> themes/ayer</p>
 </blockquote>

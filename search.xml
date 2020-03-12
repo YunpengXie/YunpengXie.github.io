@@ -16,15 +16,15 @@
     <title>20200202</title>
     <url>/2020/02/02/20200202/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>今天是大年初十，鼠年的开始，看起来是有点儿不顺的，严重的疫情下暴露了各种人性的丑恶,失望之后更多的是无可奈何。嗯，这个问题的确很未知，这个世界会好吗？配上一张我的母校!等武汉你好了，我和盆盆去看你！</p>
-<p><img src="http://q4fsnme6m.bkt.clouddn.com/hexo4.1.png" alt="avatar"></p>
+<p><img src="https://s2.ax1x.com/2020/03/09/89bqMV.png" alt="avatar"></p>
 <a id="more"></a>
 <p>说个开心的事情吧！今天我的小伙伴X和我们说她终于和Z在一起了，这真的是我过年这一阵子追的最青春，最粉红的故事！！他们两个来来回回纠缠了6年，这中途，我还把X介绍给了某人的室友，骚欧瑞 <img class="emoji" draggable="false" alt="😳" src="https://twemoji.maxcdn.com/v/12.1.5/72x72/1f633.png"/> 不过故事到目前还是很棒的，但是因为疫情他们没办法见面了，X差点儿就直接飞去美国了。哦，这艰难的爱情~</p>
-<p><img src="http://q4fsnme6m.bkt.clouddn.com/hexo4.2.png" alt="avatar"></p>
+<p><img src="https://s2.ax1x.com/2020/03/09/89bLrT.png" alt="avatar"></p>
 <p>再来说说我的这个假期，嗯，daddy’s eyes are watching u .天天被他看着是真的惨，所以我觉得未来说啥也别天天凑在一堆。嗯，下图就是我的后背，被刮破皮，火灸烫伤，以及起的痘 <img class="emoji" draggable="false" alt="😟" src="https://twemoji.maxcdn.com/v/12.1.5/72x72/1f61f.png"/></p>
-<p><img src="http://q4fsnme6m.bkt.clouddn.com/hexo4.3.png" alt="avatar"></p>
+<p><img src="https://s2.ax1x.com/2020/03/09/89qSi9.png" alt="avatar"></p>
 <p>说才惭愧，我已经6天没有洗脸洗澡了，本想昨天洗，但是被大姨妈阻碍了。<br>
 再来说说我的学业，嗯，在家效率那叫一个低，每天也就墨迹1000来个字，简直了，数据也不全乎，地理所这个坑货，说可以远程了，但是办公室开门开机等问题自行解决？？？what？？？？算了懒得吐槽他了，还好我在家吃香喝辣的，比起帅帅，也算幸福了。再扯回我的学业，我的毕业论文进展如下图所示（为盆盆起到一个警示作用~嘻嘻），写到35000就差不多了还有就算6000个字吧！</p>
-<p><img src="http://q4fsnme6m.bkt.clouddn.com/hexo4.4.png" alt="avatar"></p>
+<p><img src="https://s2.ax1x.com/2020/03/09/89bva4.png" alt="avatar"></p>
 <p>和爸妈这几天的相处其实还是很愉快的，主要是我妈愉快，我妈一旦愉快了，我家气氛就好了。嗯，就是这么的女权。这将是我近几年在家最长的一次了。</p>
 <p>很久没有记录点儿啥了，在这个难得一遇的日子里，写点儿啥吧！因为盆盆不确定能不能用表情，所以我不用了（其实是Word找表情包不方便，嘻嘻 <img class="emoji" draggable="false" alt="😜" src="https://twemoji.maxcdn.com/v/12.1.5/72x72/1f61c.png"/> ，反正懒得不是我！）<br>
 愿疫情快快过去！让大家都自由、轻松一些~</p>
@@ -53,13 +53,13 @@
 <p>git clone <a href="https://github.com/Shen-Yu/hexo-theme-ayer.git" target="_blank" rel="noopener">https://github.com/Shen-Yu/hexo-theme-ayer.git</a> themes/ayer</p>
 </blockquote>
 <p>此时可以在博客主目录 /themes 下看到多了一个文件夹，名称是 Ayer。</p>
-<p><img src="http://q4fsnme6m.bkt.clouddn.com/hexo3.1.png" alt="avatar"></p>
-<p><img src="http://q4fsnme6m.bkt.clouddn.com/hexo3.2.png" alt="avatar"></p>
+<p><img src="https://s2.ax1x.com/2020/03/09/89b4aQ.png" alt="avatar"></p>
+<p><img src="https://s2.ax1x.com/2020/03/09/89boPs.png" alt="avatar"></p>
 <p>打开博客主目录下的 _config.yml 文件，把 hexo 默认的主题 landscape 改成 ayer，如下图所示</p>
-<p><img src="http://q4fsnme6m.bkt.clouddn.com/hexo3.3.png" alt="avatar"></p>
+<p><img src="https://s2.ax1x.com/2020/03/09/89bTGn.png" alt="avatar"></p>
 <p>运行 hexo g -d，然后再运行 hexo s，就会看到效果。</p>
-<p><img src="http://q4fsnme6m.bkt.clouddn.com/hexo3.4.png" alt="avatar"></p>
-<p><img src="http://q4fsnme6m.bkt.clouddn.com/hexo3.5.png" alt="avatar"></p>
+<p><img src="https://s2.ax1x.com/2020/03/09/89b72q.png" alt="avatar"></p>
+<p><img src="https://s2.ax1x.com/2020/03/09/89bHx0.png" alt="avatar"></p>
 <p>至此，更换主题就完成了。这个主题的其他的一些特色会在之后的教程中介绍，比如为你的博客添加评论系统、博客目录管理之类的。</p>
 ]]></content>
       <categories>
@@ -80,8 +80,8 @@
 <h2 id="2-创建-repository"><a class="header-anchor" href="#2-创建-repository">¶</a>2 创建 repository</h2>
 <p>repository 相当于一个仓库，用于存放代码文件。登录 Github 账号，并且新建一个 Repository。<br>
 <strong><font color=ff0000>注意 新建的仓库名称一定要与 Github 账户名一致</font></strong></p>
-<p><img src="http://q4fsnme6m.bkt.clouddn.com/hexo2.1.png" alt="avatar"></p>
-<p><img src="http://q4fsnme6m.bkt.clouddn.com/hexo2.2.png" alt="avatar"></p>
+<p><img src="https://s2.ax1x.com/2020/03/09/89bUKK.png" alt="avatar"></p>
+<p><img src="https://s2.ax1x.com/2020/03/09/89bYgx.png" alt="avatar"></p>
 <h2 id="3-配置-SSH"><a class="header-anchor" href="#3-配置-SSH">¶</a>3 配置 SSH</h2>
 <p>首先查看是否已经存在SSH Keys<br>
 打开git bash，输入 ls -al ~/.ssh(如果用过linux,对ls命令应该不会陌生)</p>
@@ -89,24 +89,24 @@
 <p>ls -al ~/.ssh</p>
 </blockquote>
 <p>由于我已经生成过ssh，因此会出现以下内容</p>
-<p><img src="http://q4fsnme6m.bkt.clouddn.com/hexo2.3.png" alt="avatar"></p>
+<p><img src="https://s2.ax1x.com/2020/03/09/89bdbD.png" alt="avatar"></p>
 <p>如果不存在也没关系，如果存在的话，直接删除.ssh文件夹里的所有内容</p>
-<p><img src="http://q4fsnme6m.bkt.clouddn.com/hexo2.4.png" alt="avatar"></p>
+<p><img src="https://s2.ax1x.com/2020/03/09/89bD5d.png" alt="avatar"></p>
 <p>输入以下指令，回车，出现提示的让你输入的时候直接回车就行。<strong><font color=ff00000>邮箱地址是注册 Github 时用的邮箱</font></strong></p>
 <blockquote>
 <p>ssh-keygen -t rsa -C “邮箱地址”</p>
 </blockquote>
 <p>记事本打开 .ssh/id_rsa.pub 文件，并复制里面的内容，然后打开 Github 主页，进入个人设置（右上角个人图标 -&gt; Settings）</p>
-<p><img src="http://q4fsnme6m.bkt.clouddn.com/hexo2.5.1.png" alt="avatar"></p>
-<p><img src="http://q4fsnme6m.bkt.clouddn.com/hexo2.6.png" alt="avatar"></p>
-<p><img src="http://q4fsnme6m.bkt.clouddn.com/hexo2.7.png" alt="avatar"></p>
+<p><img src="https://s2.ax1x.com/2020/03/09/89bsPA.png" alt="avatar"></p>
+<p><img src="https://s2.ax1x.com/2020/03/09/89b62t.png" alt="avatar"></p>
+<p><img src="https://s2.ax1x.com/2020/03/09/89bcxP.png" alt="avatar"></p>
 <p>测试是否成功，打开 git bash</p>
 <blockquote>
 <p>ssh -T <a href="mailto:git@github.com">git@github.com</a></p>
 </blockquote>
 <p>如果提示 <font color=ff0000>Are you sure you want to connecting(yes/no)?</font>，输入 yes<br>
 则会看到以下信息</p>
-<p><img src="http://q4fsnme6m.bkt.clouddn.com/hexo2.8.png" alt="avatar"></p>
+<p><img src="https://s2.ax1x.com/2020/03/09/89b2Kf.png" alt="avatar"></p>
 <p>看到此信息说明 SSH 配置成功！</p>
 <p>同时在 git bash 里设置 Github 的 <a href="http://user.name" target="_blank" rel="noopener">user.name</a> 和 user.email 信息</p>
 <blockquote>
@@ -117,7 +117,7 @@
 </blockquote>
 <h2 id="4-配置-config-yml"><a class="header-anchor" href="#4-配置-config-yml">¶</a>4 配置 _config.yml</h2>
 <p>用记事本打开配置文件 _config.yml</p>
-<p><img src="http://q4fsnme6m.bkt.clouddn.com/hexo2.9.png" alt="avatar"></p>
+<p><img src="https://s2.ax1x.com/2020/03/09/89bWqS.png" alt="avatar"></p>
 <p>配置 文件中有关 deploy 的部分</p>
 <p><img src="http://q4fsnme6m.bkt.clouddn.com/hexo2.10.png" alt="avatar"></p>
 <h2 id="5-部署到-Github"><a class="header-anchor" href="#5-部署到-Github">¶</a>5 部署到 Github</h2>

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://leafriver.top/"/>
-  <updated>2020-06-01T09:36:51.699Z</updated>
+  <updated>2020-06-01T09:38:32.630Z</updated>
   <id>https://leafriver.top/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>微信小程序教程-2</title>
+    <title>微信小程序教程--2</title>
     <link href="https://leafriver.top/2020/06/01/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%95%99%E7%A8%8B-2/"/>
     <id>https://leafriver.top/2020/06/01/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%95%99%E7%A8%8B-2/</id>
     <published>2020-06-01T09:36:51.000Z</published>
-    <updated>2020-06-01T09:36:51.699Z</updated>
+    <updated>2020-06-01T09:38:32.630Z</updated>
     
     <summary type="html">
     
@@ -37,6 +37,8 @@
     
     
     
+      <category term="微信小程序" scheme="https://leafriver.top/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
   </entry>
   
   <entry>
@@ -44,7 +46,7 @@
     <link href="https://leafriver.top/2020/06/01/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%95%99%E7%A8%8B-1/"/>
     <id>https://leafriver.top/2020/06/01/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%95%99%E7%A8%8B-1/</id>
     <published>2020-06-01T08:37:41.000Z</published>
-    <updated>2020-06-01T09:36:56.610Z</updated>
+    <updated>2020-06-01T09:39:24.168Z</updated>
     
     <summary type="html">
     

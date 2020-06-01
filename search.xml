@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>微信小程序教程-2</title>
+    <url>/2020/06/01/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%95%99%E7%A8%8B-2/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>]]></content>
+  </entry>
+  <entry>
     <title>微信小程序教程--1</title>
     <url>/2020/06/01/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%95%99%E7%A8%8B-1/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="微信教程一"><a class="header-anchor" href="#微信教程一">¶</a>微信教程一</h2>
@@ -22,6 +27,8 @@
 <h2 id="编译预览"><a class="header-anchor" href="#编译预览">¶</a>编译预览</h2>
 <p>点击工具上的编译按钮，可以在工具的左侧模拟器界面看到这个小程序的表现，也可以点击预览按钮，通过微信的扫一扫在手机上体验你的第一个小程序。<br>
 <img src="https://s1.ax1x.com/2020/06/01/tG2qtP.jpg" alt="avatar"></p>
+<h2 id="结语"><a class="header-anchor" href="#结语">¶</a>结语</h2>
+<p>通过这个教程，可以创建第一个小程序。下一个章节，将会分析小程序的代码构成。</p>
 ]]></content>
       <tags>
         <tag>微信小程序</tag>

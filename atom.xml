@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://leafriver.top/"/>
-  <updated>2020-05-21T07:22:11.641Z</updated>
+  <updated>2020-06-01T09:26:03.522Z</updated>
   <id>https://leafriver.top/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>微信小程序教程--1</title>
+    <link href="https://leafriver.top/2020/06/01/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%95%99%E7%A8%8B-1/"/>
+    <id>https://leafriver.top/2020/06/01/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%95%99%E7%A8%8B-1/</id>
+    <published>2020-06-01T08:37:41.000Z</published>
+    <updated>2020-06-01T09:26:03.522Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;微信教程一&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#微信教程一&quot;&gt;¶&lt;/a&gt;微信教程一&lt;/h2&gt;
+&lt;p&gt;最近发现微信小程序开发的需求很多，然后最近又经常下雨，没办法去打球，索性就学习一下小程序的开发。在此将学习过程记录下来。&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="微信小程序" scheme="https://leafriver.top/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+  </entry>
   
   <entry>
     <title>20200521</title>

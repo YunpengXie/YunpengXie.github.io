@@ -11,19 +11,17 @@
 <p>​网页开发渲染线程和脚本线程是互斥的，这也是为什么长时间的脚本运行可能会导致页面失去响应，而在小程序中，二者是分开的，分别运行在不同的线程中。网页开发者可以使用到各种浏览器暴露出来的 DOM API，进行 DOM 选中和操作。而如上文所述，小程序的逻辑层和渲染层是分开的，逻辑层运行在 JSCore 中，并没有一个完整浏览器对象，因而缺少相关的DOM API和BOM API。这一区别导致了前端开发非常熟悉的一些库，例如 jQuery、 Zepto 等，在小程序中是无法运行的。同时 JSCore 的环境同 NodeJS 环境也是不尽相同，所以一些 NPM 的包在小程序中也是无法运行的。</p>
 <h2 id="申请账号"><a class="header-anchor" href="#申请账号">¶</a>申请账号</h2>
 <p>小程序开发首先得拥有一个小程序账号，通过这个账号管理小程序。</p>
-<p>进入[小程序注册页]申请账号<br>
-[小程序注册页]: <a href="https://mp.weixin.qq.com/wxopen/waregister?action=step1" target="_blank" rel="noopener">https://mp.weixin.qq.com/wxopen/waregister?action=step1</a><br>
-<img src="https://imgchr.com/i/tGrGeP" alt="avatar"></p>
+<p>进入<a href="https://mp.weixin.qq.com/wxopen/waregister?action=step1" target="_blank" rel="noopener">小程序注册页</a>申请账号</p>
+<p><img src="https://s1.ax1x.com/2020/06/01/tGrGeP.png" alt="avatar"></p>
 <p>在小程序管理平台，就可以管理小程序的权限，查看数据报表，发布小程序等。<br>
-登录[小程序后台]，我们可以在菜单“开发”-“开发设置”看到小程序的AppID了。<br>
-[小程序后台]: <a href="https://mp.weixin.qq.com/wxamp/home/guide?lang=zh_CN&amp;token=76017472" target="_blank" rel="noopener">https://mp.weixin.qq.com/wxamp/home/guide?lang=zh_CN&amp;token=76017472</a><br>
-<img src="https://imgchr.com/i/tGsFfg" alt="avatar"></p>
+登录<a href="https://mp.weixin.qq.com/wxamp/home/guide?lang=zh_CN&amp;token=76017472" target="_blank" rel="noopener">小程序后台</a>，我们可以在菜单“开发”-“开发设置”看到小程序的AppID了。</p>
+<p><img src="https://s1.ax1x.com/2020/06/01/tGsFfg.png" alt="avatar"></p>
 <h2 id="第一个小程序"><a class="header-anchor" href="#第一个小程序">¶</a>第一个小程序</h2>
 <p>新建项目选择小程序项目，选择代码存放的硬盘路径，填入刚刚申请到的小程序的 AppID，给你的项目起一个好听的名字，勾选 “不使用云服务” （注意: 你要选择一个空的目录才可以创建项目），点击新建，你就得到了你的第一个小程序了，点击顶部菜单编译就可以在微信开发者工具中预览你的第一个小程序。<br>
-<img src="https://imgchr.com/i/tG2By4" alt="avatar"></p>
+<img src="https://s1.ax1x.com/2020/06/01/tG2By4.png" alt="avatar"></p>
 <h2 id="编译预览"><a class="header-anchor" href="#编译预览">¶</a>编译预览</h2>
 <p>点击工具上的编译按钮，可以在工具的左侧模拟器界面看到这个小程序的表现，也可以点击预览按钮，通过微信的扫一扫在手机上体验你的第一个小程序。<br>
-<img src="https://imgchr.com/i/tG2qtP" alt="avatar"></p>
+<img src="https://s1.ax1x.com/2020/06/01/tG2qtP.jpg" alt="avatar"></p>
 ]]></content>
       <tags>
         <tag>微信小程序</tag>
